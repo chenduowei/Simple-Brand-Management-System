@@ -1,0 +1,9 @@
+com\google\mapper\BrandMapper.class
+com\google\util\SqlSessionFactoryUtils.class
+com\google\web\DeleteByIdServlet.class
+com\google\web\SelectByIdServlet.class
+com\google\web\AddServlet.class
+com\google\web\UpdateServlet.class
+com\google\web\SelectAllServlet.class
+com\google\pojo\Brand.class
+com\google\service\BrandService.class

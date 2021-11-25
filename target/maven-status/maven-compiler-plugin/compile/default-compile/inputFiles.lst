@@ -1,9 +1,16 @@
 D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\pojo\Brand.java
 D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\service\BrandService.java
-D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\web\DeleteByIdServlet.java
 D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\web\SelectAllServlet.java
+D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\util\CheckCodeUtil.java
+D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\web\RegisterServlet.java
 D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\web\UpdateServlet.java
+D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\web\DeleteByIdServlet.java
+D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\mapper\UserMapper.java
+D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\pojo\User.java
+D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\service\UserService.java
 D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\web\AddServlet.java
 D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\web\SelectByIdServlet.java
+D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\web\CheckCodeServlet.java
 D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\mapper\BrandMapper.java
 D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\util\SqlSessionFactoryUtils.java
+D:\IdeaProjects\java-web\brand-demo\src\main\java\com\google\web\LoginServlet.java
